@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">T Launcher</string>
+    <string name="softkey_goto">Go to</string>
+    <string name="softkey_menu">Menu</string>
+    <string name="softkey_setting">Setting</string>
+    <string name="softkey_select">Select</string>
+    <string name="softkey_back">Back</string>
+    <string name="softkey_clear">Clear</string>
+    <string name="softkey_call">Call</string>
+    <string name="softkey_exit">Exit</string>
+    <string name="menu_title">Menu</string>
+</resources>

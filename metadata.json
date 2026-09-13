@@ -1,0 +1,7 @@
+{
+  "name": "T Launcher",
+  "description": "Retro feature-phone launcher with tactile keypad, swipable horizontal menu, and authentic retro LCD display.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
